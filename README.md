@@ -2,13 +2,13 @@
 RPM specs and srpms for Rust crates needed to package nvml-wrapper (a dependency for GNOME Resources) for Fedora.
 
 # Upstream and Crate
-[Upstream - nvml-wrapper](https://github.com/rust-nvml/nvml-wrapper)
+[Upstream - nvml-wrapper](https://github.com/rust-nvml/nvml-wrapper)   
 [Crate - nvml-wrapper](https://crates.io/crates/nvml-wrapper)
 
-[Upstream - nvml-wrapper-sys](https://github.com/rust-nvml/nvml-wrapper/tree/main/nvml-wrapper-sys)
+[Upstream - nvml-wrapper-sys](https://github.com/rust-nvml/nvml-wrapper/tree/main/nvml-wrapper-sys)   
 [Crate - nvml-wrapper-sys](https://crates.io/crates/nvml-wrapper-sys)
 
-[Upstream - wrapcenum-derive](https://github.com/rust-nvml/wrapcenum-derive)
+[Upstream - wrapcenum-derive](https://github.com/rust-nvml/wrapcenum-derive)   
 [Crate - wrapcenum-derive](https://crates.io/crates/wrapcenum-derive)
 
 # Dependencies
